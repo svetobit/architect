@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T12:12:16.036Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.3.268 (beta) Yowser/2.5 Safari/537.36" version="13.10.2" etag="a5YBgGyoyPp_Io0jueUW" type="github"><diagram id="vlD0JXHBR6q7JihATjhi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-25T12:13:51.124Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.4.3.268 (beta) Yowser/2.5 Safari/537.36" etag="RNUT4ruX5q3PJ4_AdRDO" version="13.10.2" type="github">
+  <diagram id="vlD0JXHBR6q7JihATjhi" name="Page-1">
+    <mxGraphModel dx="1380" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wbJPLDqBevS3y2GhisrP-1" value="Плагин" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
